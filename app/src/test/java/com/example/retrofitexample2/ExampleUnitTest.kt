@@ -1,4 +1,4 @@
-package com.example.retrofitexample
+package com.example.retrofitexample2
 
 import org.junit.Test
 

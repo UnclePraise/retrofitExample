@@ -1,4 +1,4 @@
-package com.example.retrofitexample.ui.theme
+package com.example.retrofitexample2.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -38,7 +38,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun RetrofitExampleTheme(
+fun RetrofitExample2Theme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
